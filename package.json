@@ -19,7 +19,7 @@
     "immutable": "^4.0.0-rc.12",
     "less": "^3.9.0",
     "less-loader": "^4.1.0",
-    "lodash-es": "^4.17.11",
+    "lodash-es": "^4.17.14",
     "moment": "^2.24.0",
     "react": "^16.8.4",
     "react-app-rewired": "^2.1.1",
