@@ -847,9 +847,9 @@
     hey-listen "^1.0.5"
     style-value-types "^3.1.0"
 
-"@redux-saga/core@^1.0.2":
-  version "1.0.2"
-  resolved "https://registry.yarnpkg.com/@redux-saga/core/-/core-1.0.2.tgz#4336a5bb4253e5ca69681c25a863fbbc03ea6d88"
+"@redux-saga/core@^1.0.3":
+  version "1.0.3"
+  resolved "https://registry.yarnpkg.com/@redux-saga/core/-/core-1.0.3.tgz#c29ec7ae3d7dfcbcb8dc93177f2b3edc798c5d85"
   dependencies:
     "@babel/runtime" "^7.0.0"
     "@redux-saga/deferred" "^1.0.1"
@@ -8407,11 +8407,11 @@ redux-persist@^5.10.0:
   version "5.10.0"
   resolved "https://registry.yarnpkg.com/redux-persist/-/redux-persist-5.10.0.tgz#5d8d802c5571e55924efc1c3a9b23575283be62b"
 
-redux-saga@^1.0.2:
-  version "1.0.2"
-  resolved "https://registry.yarnpkg.com/redux-saga/-/redux-saga-1.0.2.tgz#0599703f975438f1b2f9d2b9a965ec58f0fdfcd7"
+redux-saga@^1.0.5:
+  version "1.0.5"
+  resolved "https://registry.yarnpkg.com/redux-saga/-/redux-saga-1.0.5.tgz#03317261bc5fa7ee2ecb778f4e4848f573557bbb"
   dependencies:
-    "@redux-saga/core" "^1.0.2"
+    "@redux-saga/core" "^1.0.3"
 
 "redux@>=0.10 <5", redux@^4.0.0, redux@^4.0.1:
   version "4.0.1"
