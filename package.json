@@ -12,7 +12,7 @@
     "@types/react": "16.8.8",
     "@types/react-dom": "16.8.3",
     "antd": "^3.15.2",
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "customize-cra": "^0.2.12",
     "dotenv": "^7.0.0",
     "formik": "^1.5.1",
